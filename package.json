@@ -1,0 +1,25 @@
+{
+  "name": "super-catfacts-attack-service",
+  "version": "0.0.1",
+  "description": "A service for pranking your friends with equally informative and unsolicited cat facts",
+  "main": "super-catfacts-attack-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackproser/super-catfacts-attack-service.git"
+  },
+  "keywords": [
+    "cat",
+    "facts",
+    "pranks"
+  ],
+  "author": "Zack Proser <zackproser@gmail.com> (http://www.zackproser.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "twilio": "^2.2.1"
+  }
+}

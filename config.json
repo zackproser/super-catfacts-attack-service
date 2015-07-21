@@ -1,0 +1,8 @@
+{
+	"authorized_users": ["+12345678910", "+12345678910"], 
+	"attackInterval": 30000, 
+	"catfacts_number": "+12345678910", 
+	"server_root": "http://your_server_ip_address:8080", 
+	"twilio_sid": "your_twilio_sid_from_twilio_dashboard", 
+	"twilio_auth_token": "your_twilio_auth_token_from_twilio_dashboard"
+}
