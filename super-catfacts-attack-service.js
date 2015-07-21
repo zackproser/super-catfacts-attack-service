@@ -74,9 +74,6 @@ determineEnvironment(function(err){
  */
 function isAuthorizedUser(requestor) {
 	//Is the current requestor specified as an admin in config.json?
-	console.log('isAuthorizedUser'); 
-	console.log(requestor);
-	console.dir((config.authorized_users.indexOf(requestor) > -1)); 
 	return (config.authorized_users.indexOf(requestor) > -1); 
 }
 
