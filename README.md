@@ -2,7 +2,7 @@
 
 SCFA is an elaborate pranking service written in node.js and leveraging Twilio that accepts sms commands from you and authorized friends, launches and runs multiple simultaneous CatFacts attacks on victims you specify, and creates a perfectly maddening but just plausible enough call center menu experience. 
 
-An in-depth tutorial based on this project is forthcoming on zackproser.com.
+[Read the in-depth tutorial here.](https://zackproser.com/blog/article/Super-CatFacts-Attack-As-A-Service)
 
 All joking aside, SCFA demonstrates the following techniques, which can be used for good:
 
